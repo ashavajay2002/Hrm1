@@ -1,0 +1,27 @@
+/* 🏹 FluidHR Design Tokens: Brand Fusion Palette */
+
+:root {
+  /* 🎨 Primary Structure (Soft Navy & Light Executive) */
+  --primary-color: #2E3A59; /* Sidebar Base - "The Right Color" */
+  --secondary-color: #F5F7FA; /* Content Background */
+  --accent-gold: #C8A96A; /* Champagne Details */
+  
+  /* ⚡ Original Brand Identity (For the "Main Part") */
+  --original-blue: #4F7DF3; 
+  --original-orange: #FF9900;
+  --original-red: #EF4444; /* Notification/Pulse Red */
+  
+  --text-dark: #1F2937;
+  --text-muted: #6B7280;
+  
+  /* 🔘 Components */
+  --card-radius: 12px;
+  --button-radius: 8px;
+  
+  /* 🏗️ Transitions */
+  --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  
+  /* 🌊 Shadows */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.02);
+  --shadow-hover: 0 20px 40px rgba(0, 0, 0, 0.04);
+}
